@@ -14,4 +14,3 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: main # The branch the action should deploy to.
-          folder: main # The folder the action should deploy.
