@@ -15,4 +15,3 @@ jobs:
         with:
           branch: main # The branch the action should deploy to.
           folder: Public
-          ssh-key: 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

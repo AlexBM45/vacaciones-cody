@@ -9,6 +9,5 @@ if(screen.width(500)){
             fG = document.getElementById("imgGde").innerHTML = `<img src="${img}">`;
         }
         idU = id;
-        
     }
 }  
